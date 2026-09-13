@@ -10,6 +10,12 @@ Les fichiers que les applications viennent chercher toutes seules
   le moteur (`moteur.zip`, 44 Mo) au premier lancement, puis se met à jour
   tout seul depuis l'application.
 
+- **Mac** : télécharger `Parani27-mac.zip`, le dézipper, glisser `Parani27`
+  dans Applications. **Au premier lancement, macOS refuse** (l'application
+  n'est pas notariée) : clic droit → Ouvrir, puis « Ouvrir » encore ; ou
+  Réglages Système → Confidentialité et sécurité → « Ouvrir quand même ».
+  Une seule fois — ensuite elle se met à jour toute seule depuis l'application.
+
 Pour télécharger un fichier : cliquer dessus, puis le bouton « Download raw
 file » (l'icône de téléchargement en haut à droite).
 
