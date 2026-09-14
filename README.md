@@ -3,6 +3,8 @@
 Les fichiers que les applications viennent chercher toutes seules
 (Réglages → Application). Le code est ailleurs.
 
+**Le pas à pas avec captures : [INSTALLER.md](INSTALLER.md).**
+
 ## Installer la première fois
 
 - **Android** : télécharger `lectures.apk`, l'ouvrir, autoriser l'installation.
