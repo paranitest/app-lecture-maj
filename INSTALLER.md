@@ -1,8 +1,8 @@
 # Installer Parani27
 
-Une application, trois appareils, une seule bibliothèque. Installe-la là où tu
-lis ; branche ton compte Google (Réglages → Cloud → *Connecter mon compte
-Google*) sur chaque appareil, et tes séries te suivent.
+Parani27 suit tes séries : colle le lien d'une série, elle retrouve le titre,
+la couverture et les chapitres, et te dit quand un nouveau paraît. Ici : comment
+l'installer sur Mac, Windows ou Android.
 
 Télécharger un fichier de ce dépôt : clique dessus, puis le bouton
 **Download raw file** (l'icône de téléchargement, en haut à droite).
