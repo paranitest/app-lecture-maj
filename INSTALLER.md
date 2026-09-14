@@ -67,10 +67,15 @@ Ce qui est bon à savoir :
 
 ## Après l'installation
 
-- **Réglages → Cloud → Connecter mon compte Google** : la page de Google
-  s'ouvre dans le navigateur, choisis ton compte, accepte l'accès *aux
-  fichiers créés par l'application* (rien d'autre de ton Drive n'est
-  visible). Refais-le sur chaque appareil avec le même compte : tout se
-  synchronise.
+- **Réglages → Cloud → Connecter mon compte Google** — facultatif, et
+  seulement utile si tu utilises l'application sur **plusieurs appareils** :
+  c'est ce qui fait voyager tes séries et ta progression de l'un à l'autre.
+  Sur un seul appareil, tu peux t'en passer. La page de Google s'ouvre dans
+  le navigateur, choisis ton compte, accepte l'accès *aux fichiers créés par
+  l'application* — rien d'autre de ton Drive n'est visible. **Tes données
+  restent dans ton Drive** : elles vont de ton téléphone à ton Drive et de
+  ton Drive à ton Mac, sans passer par personne d'autre. L'auteur de
+  l'application ne voit ni tes séries, ni ton compte, ni même que tu
+  l'utilises. Refais-le sur chaque appareil avec le même compte.
 - Colle le lien d'une série dans le champ du haut : titre, couverture et
   chapitres arrivent tout seuls.
