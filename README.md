@@ -14,8 +14,9 @@ Les fichiers que les applications viennent chercher toutes seules
 
 - **Mac** : télécharger `Parani27-mac.zip`, le dézipper, glisser `Parani27`
   dans Applications. **Au premier lancement, macOS refuse** (l'application
-  n'est pas notariée) : clic droit → Ouvrir, puis « Ouvrir » encore ; ou
-  Réglages Système → Confidentialité et sécurité → « Ouvrir quand même ».
+  n'est pas notariée) : cliquer « Terminé », puis Réglages Système →
+  Confidentialité et sécurité → « Ouvrir quand même » (le clic droit →
+  Ouvrir ne suffit plus sur les Mac récents).
   Une seule fois — ensuite elle se met à jour toute seule depuis l'application.
 
 Pour télécharger un fichier : cliquer dessus, puis le bouton « Download raw
